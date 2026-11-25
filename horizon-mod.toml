@@ -1,6 +1,6 @@
 id = "replay_recorder"
 name = "ServerReplay & Dual-POV Cloud Video Recorder"
-version = "2.0.0"
+version = "3.0.1"
 description = "100% Server & Client world replay packet recorder + 1st/3rd person MP4 capture + camera keyframe timeline (R/B keys) + real-time Quark Netdisk (kuake CLI) upload & auto-purge."
 authors = ["MC-AI-Horizon"]
 license = "MIT"
